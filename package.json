@@ -1,0 +1,19 @@
+{
+  "name": "rollup-plugin-tslib-resolve-id",
+  "version": "0.0.0",
+  "description": "Aliases tslib module ids",
+  "main": "index.js",
+  "repository": "https://github.com/P0lip/rollup-plugin-tslib-resolve-id",
+  "author": "Jakub Rożek",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "keywords": [
+    "rollup",
+    "rollup-plugin"
+  ],
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}
